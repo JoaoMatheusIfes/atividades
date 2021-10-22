@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang = "pt-BR">
+	<head>
+		<meta charset="utf-8">
+		<title>Atividade 02</title>
+    <style>
+    #figura{
+	display: flex;
+	text-align: left;
+}
+figure{
+	margin-top: 10px;
+}
+#chama{
+	line-height: 100px;
+	text-align:left;
+	text-align: justify;
+	line-height: 20px;
+	padding-bottom: 60px;
+}
+#beje {
+	background-color: rgb(222,217,192);
+}
+p#azul > span{
+	background-color: rgb(136, 136, 187);
+	border: solid;
+	border-width: 2px;
+}
+h1, p#azul {
+	text-align: center;
+}
+figure {
+	margin: 5px;
+}
+
+	</head>
+	<body>
+		<h1>VIDA INTELIGENTE FORA DA TERRA</h1>
+			<p id = "beje">Há civilizações inteligentes fora da Terra e elas poderiam estar presentes em até quase 40 mil planetas, segundo novos cálculos feitos por Duncan Forgan, um astrofísico da Universidade de Edimburgo, na Escócia.</p>
+			<div id="figura">
+				<figure>
+					<img src = "turu.jpg" alt = "alien esteriotipado" width = "120" height = "120">
+				</figure>
+				<div id="chama">
+					<p>As atuais pesquisas estimam que haja pelo menos 361 civilizações inteligentes em nossa galáxia, e possivelmente 38 mil fora dela.</p>
+					<p>Mesmo que haja quase 40 mil planetas com vida, no entanto, é muito pouco provável que seja estabelecido qualquer contato com vida alienígena.</p>
+					<p id = "beje">Pesquisadores apresentam estimativas de vida inteligente fora da Terra com frequência, mas é um processo quase que de adivinhação – estimativas recentes variam entre um milhão e menos de um planeta com alguma forma de vida.</p>
+				</div>
+			</div>
+			<p>“É um processo para quantificar nossa ignorância”, disse Forgan. Em seu artigo, Forgan conta que criou uma simulação de uma galáxia parecida com a nossa, permitindo que ela desenvolva sistemas solares baseados no que se conhece a partir da existência dos planetas fora do nosso sistema solar – os chamados exoplanetas.</p>
+			<p id = "beje">Esses mundos alienígenas simulados foram então submetidos a três cenários diferentes. O primeiro cenário parte da premissa de que o surgimento da vida é difícil, mas sua evolução é fácil. Neste caso, haveria 361 civilizações inteligentes na galáxia.</p>
+			<p id = "beje">O segundo parte do princípio de que a vida pode surgir facilmente, mas sua evolução para vida inteligente seria difícil. Nessas condições, a estimativa é de que haveria 31.513 outros planetas com alguma forma de vida.</p>
+			<p>O terceiro caso examina a possibilidade de que a vida poderia ter passado de um planeta para outro durante colisões de asteroides – uma teoria popular de como a vida surgiu na Terra.</p>
+			<p id = "azul"><span>Neste caso, a estimativa é de que haveria 37.964 civilizações inteligentes.</span></p>
+	</body>
+</html>
